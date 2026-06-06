@@ -1,3 +1,5 @@
-fn main() {
+use::std;
 
+fn main() {
+    println!("Hello");
 }
